@@ -1,0 +1,9 @@
+<p id="error"><%= flash[:error] %></p>
+<%= form_tag controller: "registration_user", action: "create", method: "post" do %>
+  login : <%=text_field_tag :name%><br />
+  password :<%=password_field_tag :password%><br />
+  password_confirmation :<%=password_field_tag :password_confirmation%><br/>
+  <%= hidden_field_tag :dispather_code, '' %>
+  dispather code : <%=text_field_tag :dispather_code%><br /><br />
+  <%=submit_tag "do reg"%>
+<%end%>

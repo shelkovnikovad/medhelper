@@ -1,0 +1,7 @@
+<%= form_tag( { :controller => :tasks, :action => :update, :id => @task_id }, { :method => :put } ) do %>
+  Task title : <%=text_field_tag :title, @task["title"]%><br />
+  Pation full name  :<%=text_field_tag :patient, @task["patient"]%><br />
+  Doctor <%= select_tag(:doctor_id, options_for_select(@users.map { |obj| [obj['name'], obj['id']] }, @task["doctor_id"])) %><br />
+  <%=submit_tag "Edit task"%>
+<%end%>
+<%= button_to "Delete task", { :controller => :tasks, :action => :delete_task, :id => @task_id }, { :method => :put }%>

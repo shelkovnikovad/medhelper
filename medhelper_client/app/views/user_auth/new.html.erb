@@ -1,0 +1,6 @@
+<p id="error"><%= flash[:error] %></p>
+<%= form_tag controller: "user_auth", action: "create", method: "post" do %>
+  login : <%=text_field_tag :name%><br />
+  password :<%=password_field_tag :password%><br />
+  <%=submit_tag "login"%>
+<%end%>

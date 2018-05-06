@@ -1,0 +1,8 @@
+<%= form_tag( { :controller => :tasks, :action => :update, :id => @task_id }, { :method => :put } ) do %>
+  Task title : <%=text_field_tag :title, @task["title"], disabled: true%><br />
+  Pation full name  :<%=text_field_tag :patient, @task["patient"], disabled: true%><br />
+  Diagnosis result  :<%=text_field_tag :diagnosis, @task["diagnosis"], placeholder: 'Enter diagnosis'%><br />
+  <%= hidden_field_tag :task_status, 'false' %>
+  Task completed    :<%=check_box_tag :task_status, true, true %> <br />
+  <%=submit_tag "Complete task"%>
+<%end%>

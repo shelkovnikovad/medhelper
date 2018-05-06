@@ -1,0 +1,44 @@
+<h1>Table of tasks</h1>
+
+<% is_dispather = can_user_modify_task %>
+<% if @tasks.size > 0 %>
+  <table>
+    <thead>
+    <tr>
+      <th>Title</th>
+      <th>Doctor</th>
+      <th>Patient</th>
+      <% if !is_dispather %>
+        <th>Diagnosis</th>
+      <% end %>
+    </tr>
+    </thead>
+
+    <tbody>
+
+    <% @tasks.each do |task| %>
+      <tr>
+        <td><%= task["title"]%></td>
+        <td><%= task["doctor"] %></td>
+        <td><%= task["patient"] %></td>
+        <% if is_dispather  %>
+          <td><%= link_to "Edit", controller: "tasks", action: "edit", id: task["id"]%></td>
+        <% else %>
+          <td><%= task["diagnosis"] %></td>
+          <td><%= link_to "Complete", controller: "tasks", action: "complete", id: task["id"]%></td>
+        <% end %>
+
+        <td><%# link_to "Complete", id: task[:id],  controller: "tasks", action: "complete"  %></td>
+      </tr>
+    <% end %>
+
+    </tbody>
+  </table>
+<% else %>
+  <h1>At the moment no task for you</h1>
+<% end %>
+<br>
+
+<% if is_dispather  %>
+  <%= link_to "New task", controller: "tasks", action: "new" %>
+<% end %>

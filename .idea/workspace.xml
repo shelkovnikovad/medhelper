@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="554851e8-8c0d-4e30-af13-c1765a354ce7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/assets/images/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/assets/javascripts/channels/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/controllers/concerns/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/models/concerns/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/lib/assets/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/lib/tasks/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/log/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/public/apple-touch-icon-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/public/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/controllers/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/fixtures/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/fixtures/files/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/helpers/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/integration/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/mailers/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/models/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/system/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/tmp/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/vendor/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/images/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/javascripts/channels/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/controllers/concerns/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/models/concerns/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/lib/assets/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/lib/tasks/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/log/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/public/apple-touch-icon-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/public/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/tmp/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/vendor/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/temp.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/api_client.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/assets/config/manifest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/assets/javascripts/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/assets/javascripts/cable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/assets/stylesheets/application.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/channels/application_cable/channel.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/channels/application_cable/connection.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/controllers/api/v1/tasks_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/controllers/api/v1/user_sessions_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/controllers/api/v1/users_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/controllers/application_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/helpers/application_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/jobs/application_job.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/mailers/application_mailer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/models/application_record.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/models/task.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/models/user.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/views/api/v1/tasks/create.json.jbuilder" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/views/api/v1/tasks/index.json.jbuilder" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/views/api/v1/tasks/show.json.jbuilder" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/views/api/v1/user_sessions/create.json.jbuilder" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/views/api/v1/users/create.json.jbuilder" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/views/api/v1/users/index.json.jbuilder" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/views/layouts/application.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/views/layouts/mailer.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/app/views/layouts/mailer.text.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/bin/bundle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/bin/rails" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/bin/rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/bin/setup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/bin/update" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/bin/yarn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config.ru" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/application.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/boot.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/cable.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/database.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/environment.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/environments/development.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/environments/production.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/environments/test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/initializers/application_controller_renderer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/initializers/assets.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/initializers/backtrace_silencers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/initializers/cookies_serializer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/initializers/filter_parameter_logging.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/initializers/inflections.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/initializers/mime_types.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/initializers/wrap_parameters.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/locales/en.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/puma.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/routes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/config/secrets.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/db/migrate/20180114193600_create_tasks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/db/migrate/20180114194726_create_users.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/db/migrate/20180114200106_fix_column_name.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/db/migrate/20180115192743_add_user_to_tasks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/db/migrate/20180116203357_add_token_to_users.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/db/migrate/20180201181915_change_column_name.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/db/migrate/20180205192059_add_role_to_user.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/db/migrate/20180220191317_add_patient_to_tasks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/db/schema.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/db/seeds.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/public/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/public/422.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/public/500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/public/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/serializers/task_serializer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/serializers/user_serializer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/application_system_test_case.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/controllers/api/v1/user_sessions_controller_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/fixtures/tasks.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/fixtures/users.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/models/task_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/models/user_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper-api/test/test_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/config/manifest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/javascripts/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/javascripts/cable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/javascripts/registration_user.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/javascripts/tasks.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/javascripts/user_auth.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/javascripts/welcomes.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/stylesheets/application.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/stylesheets/registration_user.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/stylesheets/scaffolds.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/stylesheets/tasks.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/stylesheets/user_auth.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/assets/stylesheets/welcomes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/channels/application_cable/channel.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/channels/application_cable/connection.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/controllers/application_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/controllers/registration_user_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/controllers/tasks_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/controllers/user_auth_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/controllers/welcome_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/helpers/application_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/helpers/registration_user_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/helpers/tasks_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/helpers/user_auth_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/helpers/welcomes_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/jobs/application_job.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/mailers/application_mailer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/models/application_record.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/views/layouts/application.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/views/layouts/mailer.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/views/layouts/mailer.text.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/views/registration_user/new.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/views/tasks/complete.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/views/tasks/edit.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/views/tasks/index.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/views/tasks/new.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/views/tasks/show.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/views/user_auth/index.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/views/user_auth/new.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/app/views/welcome/index.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/bin/bundle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/bin/rails" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/bin/rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/bin/setup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/bin/spring" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/bin/update" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/bin/yarn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config.ru" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/application.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/boot.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/cable.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/database.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/environment.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/environments/development.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/environments/production.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/environments/test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/initializers/application_controller_renderer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/initializers/assets.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/initializers/backtrace_silencers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/initializers/cookies_serializer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/initializers/filter_parameter_logging.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/initializers/inflections.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/initializers/mime_types.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/initializers/wrap_parameters.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/locales/en.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/puma.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/routes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/secrets.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/config/spring.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/db/seeds.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/public/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/public/422.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/public/500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/medhelper_client/public/robots.txt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="153" />
+    <option name="y" value="13" />
+    <option name="width" value="1549" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="temp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="554851e8-8c0d-4e30-af13-c1765a354ce7" name="Default" comment="" />
+      <created>1525624590914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525624590914</updated>
+      <workItem from="1525624592085" duration="139000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="139000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="153" y="13" width="1549" height="1040" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24983211" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

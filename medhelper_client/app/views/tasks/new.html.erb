@@ -1,0 +1,6 @@
+<%= form_tag controller: "tasks", action: "create", method: "post" do %>
+  Task title : <%=text_field_tag :title%><br />
+  Pation full name  :<%=text_field_tag :patient%><br />
+  Doctor <%= select_tag(:doctor_id, options_for_select(@users.map { |obj| [obj['name'], obj['id']] })) %><br />
+  <%=submit_tag "Create task"%>
+<%end%>
